@@ -1,0 +1,16 @@
+.container {
+  max-width: 575px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.row {
+  display: flex;
+}
+
+.column-full {
+  width: 100%;
+}
